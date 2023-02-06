@@ -8,7 +8,7 @@ require (
 	github.com/aliyun/alibaba-cloud-sdk-go v1.61.1764 // indirect
 	github.com/apache/thrift v0.13.0
 	github.com/cloudwego/hertz v0.4.0
-	github.com/cloudwego/kitex v0.3.1
+	github.com/cloudwego/kitex v0.4.4
 	github.com/go-errors/errors v1.4.2 // indirect
 	github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da // indirect
 	github.com/grpc-ecosystem/grpc-gateway/v2 v2.10.3 // indirect
@@ -28,8 +28,8 @@ require (
 	github.com/hertz-contrib/reverseproxy v0.0.0-20220907134658-6a05798e1cc5
 	github.com/hertz-contrib/tracer v0.0.0-20220601062646-788b1565bdab
 	github.com/jmespath/go-jmespath v0.4.0 // indirect
-	github.com/kitex-contrib/obs-opentelemetry v0.0.0-20220616115444-37518030dbb3
-	github.com/kitex-contrib/obs-opentelemetry/logging/logrus v0.0.0-20220616115444-37518030dbb3
+	github.com/kitex-contrib/obs-opentelemetry v0.1.0
+	github.com/kitex-contrib/obs-opentelemetry/logging/logrus v0.0.0-20221109071748-a433b0b57972
 	github.com/kitex-contrib/tracer-opentracing v0.0.3
 	github.com/opentracing/opentracing-go v1.2.0
 	github.com/prometheus/client_golang v1.13.0 // indirect
@@ -40,7 +40,6 @@ require (
 	go.opencensus.io v0.23.0 // indirect
 	go.opentelemetry.io/otel v1.9.0
 	go.opentelemetry.io/otel/exporters/stdout/stdouttrace v1.9.0 // indirect
-	go.opentelemetry.io/proto/otlp v0.18.0 // indirect
 	go.uber.org/atomic v1.10.0 // indirect
 	golang.org/x/net v0.0.0-20220630215102-69896b714898 // indirect
 	golang.org/x/sync v0.0.0-20220907140024-f12130a52804 // indirect
